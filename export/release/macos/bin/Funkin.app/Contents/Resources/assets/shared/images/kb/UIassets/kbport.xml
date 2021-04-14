@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="kbport.png">
+	<!-- Created with Adobe Animate version 21.0.2.37893 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="kanye-bearport0000" x="0" y="0" width="276" height="258"/>
+	<SubTexture name="kanye-bearport0001" x="276" y="0" width="276" height="253" frameX="0" frameY="-5" frameWidth="276" frameHeight="258"/>
+	<SubTexture name="kanye-bearport0002" x="276" y="0" width="276" height="253" frameX="0" frameY="-5" frameWidth="276" frameHeight="258"/>
+	<SubTexture name="kanye-bearport0003" x="552" y="0" width="276" height="244" frameX="0" frameY="-14" frameWidth="276" frameHeight="258"/>
+	<SubTexture name="kanye-bearport0004" x="0" y="258" width="276" height="257" frameX="0" frameY="-1" frameWidth="276" frameHeight="258"/>
+	<SubTexture name="kanye-bearport0005" x="0" y="258" width="276" height="257" frameX="0" frameY="-1" frameWidth="276" frameHeight="258"/>
+	<SubTexture name="kanye-bearport0006" x="0" y="258" width="276" height="257" frameX="0" frameY="-1" frameWidth="276" frameHeight="258"/>
+	<SubTexture name="kanye-bearport0007" x="276" y="258" width="276" height="258"/>
+	<SubTexture name="kanye-bearport0008" x="276" y="258" width="276" height="258"/>
+	<SubTexture name="kanye-bearport0009" x="552" y="258" width="276" height="253" frameX="0" frameY="-5" frameWidth="276" frameHeight="258"/>
+	<SubTexture name="kanye-bearport0010" x="552" y="258" width="276" height="253" frameX="0" frameY="-5" frameWidth="276" frameHeight="258"/>
+	<SubTexture name="kanye-bearport0011" x="0" y="516" width="276" height="244" frameX="0" frameY="-14" frameWidth="276" frameHeight="258"/>
+	<SubTexture name="kanye-bearport0012" x="0" y="516" width="276" height="244" frameX="0" frameY="-14" frameWidth="276" frameHeight="258"/>
+	<SubTexture name="kanye-bearport0013" x="0" y="258" width="276" height="257" frameX="0" frameY="-1" frameWidth="276" frameHeight="258"/>
+	<SubTexture name="kanye-bearport0014" x="0" y="258" width="276" height="257" frameX="0" frameY="-1" frameWidth="276" frameHeight="258"/>
+	<SubTexture name="kanye-bearport0015" x="0" y="258" width="276" height="257" frameX="0" frameY="-1" frameWidth="276" frameHeight="258"/>
+	<SubTexture name="kanye-bearport0016" x="276" y="516" width="276" height="258"/>
+	<SubTexture name="kanye-bearport0017" x="276" y="516" width="276" height="258"/>
+	<SubTexture name="kanye-bearport0018" x="552" y="258" width="276" height="253" frameX="0" frameY="-5" frameWidth="276" frameHeight="258"/>
+	<SubTexture name="kanye-bearport0019" x="552" y="258" width="276" height="253" frameX="0" frameY="-5" frameWidth="276" frameHeight="258"/>
+	<SubTexture name="kanye-bearport0020" x="552" y="516" width="276" height="244" frameX="0" frameY="-14" frameWidth="276" frameHeight="258"/>
+	<SubTexture name="kanye-bearport0021" x="552" y="516" width="276" height="244" frameX="0" frameY="-14" frameWidth="276" frameHeight="258"/>
+	<SubTexture name="kanye-bearport0022" x="0" y="258" width="276" height="257" frameX="0" frameY="-1" frameWidth="276" frameHeight="258"/>
+	<SubTexture name="kanye-bearport0023" x="0" y="258" width="276" height="257" frameX="0" frameY="-1" frameWidth="276" frameHeight="258"/>
+	<SubTexture name="kanye-bearport0024" x="0" y="258" width="276" height="257" frameX="0" frameY="-1" frameWidth="276" frameHeight="258"/>
+	<SubTexture name="kanye-bearport0025" x="276" y="516" width="276" height="258"/>
+	<SubTexture name="kanye-bearport0026" x="276" y="516" width="276" height="258"/>
+</TextureAtlas>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sky_assets.png">
+	<!-- Created with Adobe Animate version 21.0.2.37893 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Textbox0000" x="0" y="0" width="942" height="232" frameX="0" frameY="-30" frameWidth="942" frameHeight="262"/>
+	<SubTexture name="Textbox0001" x="942" y="0" width="942" height="240" frameX="0" frameY="-13" frameWidth="942" frameHeight="262"/>
+	<SubTexture name="Textbox0002" x="0" y="240" width="942" height="240" frameX="0" frameY="-7" frameWidth="942" frameHeight="262"/>
+	<SubTexture name="Textbox0003" x="942" y="240" width="942" height="239" frameX="0" frameY="-4" frameWidth="942" frameHeight="262"/>
+	<SubTexture name="Textbox0004" x="0" y="480" width="942" height="240" frameX="0" frameY="-1" frameWidth="942" frameHeight="262"/>
+	<SubTexture name="Textbox0005" x="942" y="480" width="942" height="240" frameX="0" frameY="0" frameWidth="942" frameHeight="262"/>
+	<SubTexture name="Textbox0006" x="0" y="720" width="942" height="239" frameX="0" frameY="0" frameWidth="942" frameHeight="262"/>
+</TextureAtlas>

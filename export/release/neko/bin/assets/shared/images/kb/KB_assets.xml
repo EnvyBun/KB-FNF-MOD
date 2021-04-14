@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="KB_assets.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="KB Down0000" x="0" y="0" width="493" height="591" frameX="0" frameY="0" frameWidth="499" frameHeight="591"/>
+	<SubTexture name="KB Down0001" x="0" y="0" width="493" height="591" frameX="0" frameY="0" frameWidth="499" frameHeight="591"/>
+	<SubTexture name="KB Down0002" x="493" y="0" width="494" height="576" frameX="-5" frameY="-15" frameWidth="499" frameHeight="591"/>
+	<SubTexture name="KB Down0003" x="493" y="0" width="494" height="576" frameX="-5" frameY="-15" frameWidth="499" frameHeight="591"/>
+	<SubTexture name="KB Down0004" x="987" y="0" width="494" height="582" frameX="-5" frameY="-9" frameWidth="499" frameHeight="591"/>
+	<SubTexture name="KB Down0005" x="987" y="0" width="494" height="582" frameX="-5" frameY="-9" frameWidth="499" frameHeight="591"/>
+	<SubTexture name="KB Down0006" x="987" y="0" width="494" height="582" frameX="-5" frameY="-9" frameWidth="499" frameHeight="591"/>
+	<SubTexture name="KB Down0007" x="987" y="0" width="494" height="582" frameX="-5" frameY="-9" frameWidth="499" frameHeight="591"/>
+	<SubTexture name="KB Down0008" x="987" y="0" width="494" height="582" frameX="-5" frameY="-9" frameWidth="499" frameHeight="591"/>
+	<SubTexture name="KB Down0009" x="987" y="0" width="494" height="582" frameX="-5" frameY="-9" frameWidth="499" frameHeight="591"/>
+	<SubTexture name="KB Down0010" x="987" y="0" width="494" height="582" frameX="-5" frameY="-9" frameWidth="499" frameHeight="591"/>
+	<SubTexture name="KB Down0011" x="987" y="0" width="494" height="582" frameX="-5" frameY="-9" frameWidth="499" frameHeight="591"/>
+	<SubTexture name="KB Down0012" x="987" y="0" width="494" height="582" frameX="-5" frameY="-9" frameWidth="499" frameHeight="591"/>
+	<SubTexture name="KB Down0013" x="987" y="0" width="494" height="582" frameX="-5" frameY="-9" frameWidth="499" frameHeight="591"/>
+	<SubTexture name="KB Idle0000" x="1481" y="0" width="295" height="659" frameX="0" frameY="0" frameWidth="310" frameHeight="659"/>
+	<SubTexture name="KB Idle0001" x="1481" y="0" width="295" height="659" frameX="0" frameY="0" frameWidth="310" frameHeight="659"/>
+	<SubTexture name="KB Idle0002" x="0" y="659" width="283" height="655" frameX="-27" frameY="-4" frameWidth="310" frameHeight="659"/>
+	<SubTexture name="KB Idle0003" x="0" y="659" width="283" height="655" frameX="-27" frameY="-4" frameWidth="310" frameHeight="659"/>
+	<SubTexture name="KB Idle0004" x="283" y="659" width="275" height="646" frameX="-35" frameY="-13" frameWidth="310" frameHeight="659"/>
+	<SubTexture name="KB Idle0005" x="283" y="659" width="275" height="646" frameX="-35" frameY="-13" frameWidth="310" frameHeight="659"/>
+	<SubTexture name="KB Idle0006" x="558" y="659" width="285" height="644" frameX="-24" frameY="-15" frameWidth="310" frameHeight="659"/>
+	<SubTexture name="KB Idle0007" x="558" y="659" width="285" height="644" frameX="-24" frameY="-15" frameWidth="310" frameHeight="659"/>
+	<SubTexture name="KB Idle0008" x="843" y="659" width="284" height="644" frameX="-14" frameY="-15" frameWidth="310" frameHeight="659"/>
+	<SubTexture name="KB Idle0009" x="843" y="659" width="284" height="644" frameX="-14" frameY="-15" frameWidth="310" frameHeight="659"/>
+	<SubTexture name="KB Idle0010" x="1127" y="659" width="290" height="656" frameX="-6" frameY="-3" frameWidth="310" frameHeight="659"/>
+	<SubTexture name="KB Idle0011" x="1127" y="659" width="290" height="656" frameX="-6" frameY="-3" frameWidth="310" frameHeight="659"/>
+	<SubTexture name="KB Idle0012" x="1481" y="0" width="295" height="659" frameX="0" frameY="0" frameWidth="310" frameHeight="659"/>
+	<SubTexture name="KB Idle0013" x="1481" y="0" width="295" height="659" frameX="0" frameY="0" frameWidth="310" frameHeight="659"/>
+	<SubTexture name="KB Left0000" x="1417" y="659" width="536" height="658"/>
+	<SubTexture name="KB Left0001" x="1417" y="659" width="536" height="658"/>
+	<SubTexture name="KB Left0002" x="0" y="1317" width="524" height="657" frameX="-4" frameY="-1" frameWidth="536" frameHeight="658"/>
+	<SubTexture name="KB Left0003" x="0" y="1317" width="524" height="657" frameX="-4" frameY="-1" frameWidth="536" frameHeight="658"/>
+	<SubTexture name="KB Left0004" x="524" y="1317" width="524" height="658" frameX="-4" frameY="0" frameWidth="536" frameHeight="658"/>
+	<SubTexture name="KB Left0005" x="524" y="1317" width="524" height="658" frameX="-4" frameY="0" frameWidth="536" frameHeight="658"/>
+	<SubTexture name="KB Left0006" x="524" y="1317" width="524" height="658" frameX="-4" frameY="0" frameWidth="536" frameHeight="658"/>
+	<SubTexture name="KB Left0007" x="524" y="1317" width="524" height="658" frameX="-4" frameY="0" frameWidth="536" frameHeight="658"/>
+	<SubTexture name="KB Left0008" x="524" y="1317" width="524" height="658" frameX="-4" frameY="0" frameWidth="536" frameHeight="658"/>
+	<SubTexture name="KB Left0009" x="524" y="1317" width="524" height="658" frameX="-4" frameY="0" frameWidth="536" frameHeight="658"/>
+	<SubTexture name="KB Left0010" x="524" y="1317" width="524" height="658" frameX="-4" frameY="0" frameWidth="536" frameHeight="658"/>
+	<SubTexture name="KB Left0011" x="524" y="1317" width="524" height="658" frameX="-4" frameY="0" frameWidth="536" frameHeight="658"/>
+	<SubTexture name="KB Left0012" x="524" y="1317" width="524" height="658" frameX="-4" frameY="0" frameWidth="536" frameHeight="658"/>
+	<SubTexture name="KB Left0013" x="524" y="1317" width="524" height="658" frameX="-4" frameY="0" frameWidth="536" frameHeight="658"/>
+	<SubTexture name="KB Right0000" x="1048" y="1317" width="457" height="669"/>
+	<SubTexture name="KB Right0001" x="1048" y="1317" width="457" height="669"/>
+	<SubTexture name="KB Right0002" x="1505" y="1317" width="445" height="651" frameX="-7" frameY="-18" frameWidth="457" frameHeight="669"/>
+	<SubTexture name="KB Right0003" x="1505" y="1317" width="445" height="651" frameX="-7" frameY="-18" frameWidth="457" frameHeight="669"/>
+	<SubTexture name="KB Right0004" x="0" y="1986" width="445" height="654" frameX="-7" frameY="-15" frameWidth="457" frameHeight="669"/>
+	<SubTexture name="KB Right0005" x="0" y="1986" width="445" height="654" frameX="-7" frameY="-15" frameWidth="457" frameHeight="669"/>
+	<SubTexture name="KB Right0006" x="0" y="1986" width="445" height="654" frameX="-7" frameY="-15" frameWidth="457" frameHeight="669"/>
+	<SubTexture name="KB Right0007" x="0" y="1986" width="445" height="654" frameX="-7" frameY="-15" frameWidth="457" frameHeight="669"/>
+	<SubTexture name="KB Right0008" x="0" y="1986" width="445" height="654" frameX="-7" frameY="-15" frameWidth="457" frameHeight="669"/>
+	<SubTexture name="KB Right0009" x="0" y="1986" width="445" height="654" frameX="-7" frameY="-15" frameWidth="457" frameHeight="669"/>
+	<SubTexture name="KB Right0010" x="0" y="1986" width="445" height="654" frameX="-7" frameY="-15" frameWidth="457" frameHeight="669"/>
+	<SubTexture name="KB Right0011" x="0" y="1986" width="445" height="654" frameX="-7" frameY="-15" frameWidth="457" frameHeight="669"/>
+	<SubTexture name="KB Right0012" x="0" y="1986" width="445" height="654" frameX="-7" frameY="-15" frameWidth="457" frameHeight="669"/>
+	<SubTexture name="KB Right0013" x="0" y="1986" width="445" height="654" frameX="-7" frameY="-15" frameWidth="457" frameHeight="669"/>
+	<SubTexture name="KB up0000" x="445" y="1986" width="386" height="782" frameX="0" frameY="0" frameWidth="386" frameHeight="783"/>
+	<SubTexture name="KB up0001" x="445" y="1986" width="386" height="782" frameX="0" frameY="0" frameWidth="386" frameHeight="783"/>
+	<SubTexture name="KB up0002" x="831" y="1986" width="384" height="782" frameX="-2" frameY="-1" frameWidth="386" frameHeight="783"/>
+	<SubTexture name="KB up0003" x="831" y="1986" width="384" height="782" frameX="-2" frameY="-1" frameWidth="386" frameHeight="783"/>
+	<SubTexture name="KB up0004" x="831" y="1986" width="384" height="782" frameX="-2" frameY="-1" frameWidth="386" frameHeight="783"/>
+	<SubTexture name="KB up0005" x="831" y="1986" width="384" height="782" frameX="-2" frameY="-1" frameWidth="386" frameHeight="783"/>
+	<SubTexture name="KB up0006" x="831" y="1986" width="384" height="782" frameX="-2" frameY="-1" frameWidth="386" frameHeight="783"/>
+	<SubTexture name="KB up0007" x="831" y="1986" width="384" height="782" frameX="-2" frameY="-1" frameWidth="386" frameHeight="783"/>
+	<SubTexture name="KB up0008" x="831" y="1986" width="384" height="782" frameX="-2" frameY="-1" frameWidth="386" frameHeight="783"/>
+	<SubTexture name="KB up0009" x="831" y="1986" width="384" height="782" frameX="-2" frameY="-1" frameWidth="386" frameHeight="783"/>
+	<SubTexture name="KB up0010" x="831" y="1986" width="384" height="782" frameX="-2" frameY="-1" frameWidth="386" frameHeight="783"/>
+	<SubTexture name="KB up0011" x="831" y="1986" width="384" height="782" frameX="-2" frameY="-1" frameWidth="386" frameHeight="783"/>
+	<SubTexture name="KB up0012" x="831" y="1986" width="384" height="782" frameX="-2" frameY="-1" frameWidth="386" frameHeight="783"/>
+	<SubTexture name="KB up0013" x="831" y="1986" width="384" height="782" frameX="-2" frameY="-1" frameWidth="386" frameHeight="783"/>
+</TextureAtlas>
